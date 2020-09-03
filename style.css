@@ -1,0 +1,13 @@
+h1{
+    background-color: aquamarine;
+    text-align: center;
+    margin-left: 700px;
+    width: 500px;
+}
+*{
+    text-align: center;
+    background-color: gray;
+}
+.pandapic {
+    border-color: black;
+}
